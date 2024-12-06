@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: dubai;
+  src: url('../src/assets/font/dubai/Dubai-Regular.ttf');
+
+}
+
+
+:root{
+  font-family: dubai;
+}
+
+
+body{  
+  font-family: dubai;
+}
+
+
+
